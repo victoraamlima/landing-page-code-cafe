@@ -89,7 +89,7 @@ body {
 }
 
 .ladrilho .grande {
-    background: url(/src/images/4.jpg) center center no-repeat;
+    background: url(../images/4.jpg) center center no-repeat;
     height: 600px;
     width: 50%;
 }
@@ -137,7 +137,7 @@ body {
 }
 
 .rodape {
-    background: url(/src/images/fundo-rodape.jpg) center center no-repeat;
+    background: url(../images/fundo-rodape.jpg) center center no-repeat;
     padding: 35px 30px;
     background-size: cover;
 }
